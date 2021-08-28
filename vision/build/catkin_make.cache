@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:usb_cam:vision_distance
+-DCATKIN_DEVEL_PREFIX=/home/jong/vision/devel -DCMAKE_INSTALL_PREFIX=/home/jong/vision/install -G Unix Makefiles

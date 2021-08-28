@@ -1,0 +1,8 @@
+prefix=/home/jong/vision/install
+
+Name: vision_distance
+Description: Description of vision_distance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs darknet_ros_msgs
